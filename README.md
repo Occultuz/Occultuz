@@ -1,6 +1,5 @@
-### Hello, welcome to my profile! 👋
+### Data Scientist, Back-end and Mobile Developer
 
-- 🌱 Studying: Java and Spring
 - 📫 Contact me by email: vinicius.fernandes.lima@outlook.com
 
 ##
@@ -50,8 +49,18 @@
    <img align="center" alt="Vini-SQLServer" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">                                               
   <img align="center" alt="Vini-Pgsql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg">       <img align="center" alt="Vini-Mongo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
   <img align="center" alt="Vini-Firebase" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
-          
   </div>
+  
+## Data Science
+  
+  <div style="display: inline_block"><br>
+  <img align="center" alt="Vini-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Vini-Pandas" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
+  <img align="center" alt="Vini-NumPy" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
+                                                                                                                                               
+                                                                                                                                                          
+          
+  </div>                                                                                                                                                     
 
 ## DevOps and IDE 
 
